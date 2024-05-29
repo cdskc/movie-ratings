@@ -3,3 +3,6 @@ api_key.txt
 read_access_token.txt
 .ipynb_checkpoints/movie-ratings-checkpoint.ipynb
 *.txt
+.ipynb_checkpoints/movie-data-exploration-checkpoint.ipynb
+.ipynb_checkpoints/movie-data-eda-checkpoint.ipynb
+.ipynb_checkpoints/movie-data-exploration-checkpoint.ipynb
